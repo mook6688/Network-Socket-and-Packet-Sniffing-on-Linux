@@ -2,11 +2,11 @@
 
 This is about socket communication and packet sniffing on the network. Development language is Python, and the driving test was performed through Linux.
 
-<h2>JEONGMUK LIM <br>
+JEONGMUK LIM <br>
 Department of Computer Science<br>
 Chungbuk National University<br>
 <br>
-충북대학교 컴퓨터공학과 임정묵<h2><br>
+충북대학교 컴퓨터공학과 임정묵<br>
 
  <br>
  -Conditions <br>
