@@ -1,8 +1,16 @@
 # Network-Socket-and-Packet-Sniffing-on-Linux
-This is about socket communication and packet sniffing on the network. Development language is Python, and the driving test was performed through Linux.
+
+	### This is about socket communication and packet sniffing on the network. Development language is Python, and the driving test was performed through Linux.
+
+<h2>JEONGMUK LIM <br>
+Department of Computer Science<br>
+Chungbuk National University<br>
+
+충북대학교 컴퓨터공학과 임정묵<h2><br>
+
 ================================
-<h2>충북대학교 컴퓨터공학과 임정묵(2015040033)<h2>
-================================
+ <br>
+ 
 -Conditions <br>
 
 1) Output of Ethernet and IP headers <br>
@@ -30,6 +38,10 @@ This is about socket communication and packet sniffing on the network. Developme
 	$ python client.py -i 127.0.0.1 -p 8888
   
   
+![alt text](https://github.com/mook6688/jeongmoogy/blob/master/6%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/result.PNG)
+
+![alt text](https://github.com/mook6688/jeongmoogy/blob/master/6%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/result.PNG)
+
 ![alt text](https://github.com/mook6688/jeongmoogy/blob/master/6%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/result.PNG)
 
 
