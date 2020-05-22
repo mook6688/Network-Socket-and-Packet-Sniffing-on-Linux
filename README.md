@@ -17,17 +17,21 @@ Chungbuk National University<br>
 3) Read the part that contains the length of the IP header first, then cut the IP header part based on the value and parse it. <br>
 4) The IP header option does not need to be considered. <br>
 5) Write only when Ethernet Type is IPv4 <br>
-
+<br>
+<br>
 ● packet_sniffer.py <br>
 ○ -i : NIC Name <br>
-
+<br>
+<br>
 ● server.py <br>
 ○ -p: port number for connection <br>
-
+<br>
+<br>
 ● client.py <br>
 ○ -p: port number for connection <br>
 ○ -i:  host address <br>
-
+<br>
+<br>
 
 ### Input Example (Packet Sniffing)
 	$ python3 packet_sniffer.py -i lo
