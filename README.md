@@ -40,10 +40,9 @@ Chungbuk National University<br>
 	$ python client.py -i 127.0.0.1 -p 8888
   
   
-![alt text](https://github.com/mook6688/jeongmoogy/blob/master/6%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/result.PNG)
+![alt text](https://github.com/mook6688/Network-Socket-and-Packet-Sniffing-on-Linux/blob/master/Result/result.png)
 
-![alt text](https://github.com/mook6688/jeongmoogy/blob/master/6%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/result.PNG)
+![alt text](https://github.com/mook6688/Network-Socket-and-Packet-Sniffing-on-Linux/blob/master/Result/result(server-client).png)
 
-![alt text](https://github.com/mook6688/jeongmoogy/blob/master/6%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/result.PNG)
 
 
