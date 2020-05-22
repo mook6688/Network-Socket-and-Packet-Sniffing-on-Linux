@@ -42,7 +42,9 @@ Chungbuk National University<br>
   
 ![alt text](https://github.com/mook6688/Network-Socket-and-Packet-Sniffing-on-Linux/blob/master/Result/result.png)
 
+### Result for Packet Sniffing by packet_sniffer.py
+
 ![alt text](https://github.com/mook6688/Network-Socket-and-Packet-Sniffing-on-Linux/blob/master/Result/result(server-client).png)
 
-
+### Result for Socket Communication between Server-Client by server.py and client.py
 
