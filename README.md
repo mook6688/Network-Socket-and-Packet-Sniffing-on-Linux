@@ -22,8 +22,10 @@ This is about socket communication and packet sniffing on the network. Developme
 ○ -i:  host address <br>
 
 
-### Input Example
+### Input Example (Packet Sniffing)
 	$ python3 packet_sniffer.py -i lo
+	
+### Input Example (Client-Server)
 	$ python server.py -p 8888
 	$ python client.py -i 127.0.0.1 -p 8888
   
