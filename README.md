@@ -12,9 +12,22 @@ This is about socket communication and packet sniffing on the network. Developme
 5) Write only when Ethernet Type is IPv4 <br>
 
 ● packet_sniffer.py <br>
-
 ○ -i : NIC Name <br>
+
+● server.py <br>
+○ -p: port number for connection <br>
+
+● client.py <br>
+○ -p: port number for connection <br>
+○ -i:  host address <br>
 
 
 ### Input Example
 	$ python3 packet_sniffer.py -i lo
+	$ python server.py -p 8888
+	$ python client.py -i 127.0.0.1 -p 8888
+  
+  
+![alt text](https://github.com/mook6688/jeongmoogy/blob/master/6%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C/result.PNG)
+
+
