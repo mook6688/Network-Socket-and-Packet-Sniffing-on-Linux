@@ -1,6 +1,6 @@
 # Network Socket and Packet Sniffing on Linux
 -------------------------------------------------------
-### This is about socket connection and packet sniffing on the network. Development language is Python, and the driving test was       performed through Linux.
+### This is about socket connection and packet sniffing on the network. PL is Python, and the driving test was performed through Linux.
 -------------------------------------------------------
 <h2> JEONGMUK LIM <br>
 Department of Computer Science<br>
