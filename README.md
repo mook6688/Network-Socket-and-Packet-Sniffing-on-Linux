@@ -6,10 +6,6 @@
 Department of Computer Science<br>
 Chungbuk National University<br>
 
-<br>
-충북대학교 컴퓨터공학과 임정묵</h2><br>
- <br>
-
 > ### - Conditions<br>
 >
 > 1) Output of Ethernet and IP headers <br>
